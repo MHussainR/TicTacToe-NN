@@ -1,0 +1,6 @@
+Game created on 9 August 2022
+
+the counter started on 11 August 2022 at 5:00 pm
+
+Target: Computer wins / draws a 3 round match, each round consisting of 10 games
+
